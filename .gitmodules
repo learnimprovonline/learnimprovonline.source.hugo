@@ -1,3 +1,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/learnimprovonline/learnimprovonline.github.io.git
+[submodule "themes/hugo-coming-soon-theme"]
+	path = themes/hugo-coming-soon-theme
+	url = https://github.com/lrdodge/hugo-coming-soon-theme.git
